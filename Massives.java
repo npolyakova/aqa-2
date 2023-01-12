@@ -9,9 +9,6 @@ public class Massives {
         array1[0] = 1.2;
         array1[1] = 3.1;
 
-        // 1 2 3
-        // 0 1 2
-
         for (int i = 0; i <= array1.length - 1; i++) {
             System.out.print(array1[i] + " ");
         }
